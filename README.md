@@ -6,4 +6,4 @@ My name is Ian/Bruce. I am a newbie to programming.
 - 📫 How to reach me: ... Discord: The Ian#0001
 - 😄 Pronouns: ... He/Him
 
-[![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucecodesgithub)](https://github.com/anuraghazra/github-readme-stats)
+[![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucecodesgithub)]
