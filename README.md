@@ -1,9 +1,17 @@
-### Hi there 👋
-My name is Ian/Bruce. I am a newbie to programming.
+# Bruce
+Hello! My name is Bruce
 
-- 🔭 I’m currently working on ... Making a personal chat app!
-- 🌱 I’m currently learning ... Javascript and SQL
-- 📫 How to reach me: ... Discord: The Ian#0001
-- 😄 Pronouns: ... He/Him
-
-[![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucecodesgithub)]
+Contact me through: [Discord](https://discord.com/users/571638000661037056) (BruceDev#1798)
+	Discord Servers:
+		- [TCA](https://discord.gg/m2VeXBtRBV) (Moderator)
+		- [Pycord](https://discord.gg/pycord) (Server Manager)
+		- [Book Paradise](https://discord.gg/ShB6CYX) (Previous Owner)
+Pronouns: He/Him
+Languages:
+- __Intermediete__
+	- Python
+- __Learning__
+	- Javascript
+- __Planning to Learn__
+	- TypeScript
+	- Java
