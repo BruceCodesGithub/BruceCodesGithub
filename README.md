@@ -13,7 +13,7 @@ Languages:
 - __Intermediete__
 	- Python
 - __Learning__
-	- Javascript
+	- None
 - __Planning to Learn__
-	- TypeScript
+	- JavaScript
 	- Java
