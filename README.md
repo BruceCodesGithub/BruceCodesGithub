@@ -1,19 +1,7 @@
-# Bruce
-Hello! My name is Bruce
+# BruceCodesGithub (`BruceDev`)
 
-Contact me through: [Discord](https://discord.com/users/571638000661037056) (BruceDev#1798)
+## Code Stack
+- Python (Intermediate)
 
-Discord Servers:
-- [TCA](https://discord.gg/m2VeXBtRBV) (Moderator)
-- [Pycord](https://discord.gg/pycord) (Server Manager)	
-- [Book Paradise](https://discord.gg/ShB6CYX) (Previous Owner)
-		
-Pronouns: He/Him
-Languages:
-- __Intermediete__
-	- Python
-- __Learning__
-	- None
-- __Planning to Learn__
-	- JavaScript
-	- Java
+## Contact
+Contact: [Discord](https://discord.com/users/571638000661037056) (BruceDev#1798)
