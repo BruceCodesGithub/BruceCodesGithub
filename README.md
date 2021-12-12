@@ -8,7 +8,7 @@
     <th>
       Coding Ametaur
       <br>
-      Backend
+      Backend Developer
       <br>
       Want to try out different projects and languages
     </th>
