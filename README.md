@@ -21,4 +21,4 @@
 
 ## Contact Me
 - [Discord](https://discord.com/users/571638000661037056) (BruceDev#1798)
-- <a href-"mailto:brucealt69@gmail.com">Email</a> (brucealt69@gmail.com)
+- <a href="mailto:brucealt69@gmail.com">Email</a> (brucealt69@gmail.com)
