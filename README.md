@@ -20,4 +20,5 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 ## Contact Me
-Contact: [Discord](https://discord.com/users/571638000661037056) (BruceDev#1798)
+- [Discord](https://discord.com/users/571638000661037056) (BruceDev#1798)
+- <a href-"mailto:brucealt69@gmail.com">Email</a> (brucealt69@gmail.com)
