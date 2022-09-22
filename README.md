@@ -12,4 +12,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like 🍕
 
-Check out my [portfolio](https://namantech.me)
+Email: brucebzn@gmail.com
